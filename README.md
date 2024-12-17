@@ -1,4 +1,4 @@
-# sexgpt
+# sensual gpt formerly: sexgpt
 
 ## sensual ai jailbreak prompts for different ai models
 
