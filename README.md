@@ -1,3 +1,5 @@
 # sexgpt
 
-## ai jailbreak prompts for different ai models
+## sensual ai jailbreak prompts for different ai models
+
+### work in progress 
